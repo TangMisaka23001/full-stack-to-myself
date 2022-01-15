@@ -1,0 +1,27 @@
+# 前言
+- 对半年全栈开发技术的整理
+- 尝试更多新的语言和框架特性以及更便利的开发方式
+- 以切实的项目来驱动代码
+## 技术架构
+- 项目
+  - 电商设计手册
+- 构建工具
+  - gradle
+- 网关： nginx
+- ci/cd： docker
+- 后端
+  - java
+  - .net core
+  - go
+  - ...
+- 前端
+  - react
+  - vue 3.0
+  - Angular
+- UI
+  - antd
+  - navie ui
+- IDE
+  - ide
+  - webstrom
+  - data grip
